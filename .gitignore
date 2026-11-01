@@ -1,0 +1,32 @@
+# Python / notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+
+# Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local datasets, exports, models, recordings and images
+*.csv
+*.xls
+*.xlsx
+*.html
+*.pt
+*.pth
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+*.png
+*.zip
